@@ -1,0 +1,10 @@
+C:\Users\102330974\source\repos\Uni-work-\portfolio\portfolio\bin\Debug\netcoreapp1.1\portfolio.deps.json
+C:\Users\102330974\source\repos\Uni-work-\portfolio\portfolio\bin\Debug\netcoreapp1.1\portfolio.runtimeconfig.json
+C:\Users\102330974\source\repos\Uni-work-\portfolio\portfolio\bin\Debug\netcoreapp1.1\portfolio.runtimeconfig.dev.json
+C:\Users\102330974\source\repos\Uni-work-\portfolio\portfolio\bin\Debug\netcoreapp1.1\portfolio.dll
+C:\Users\102330974\source\repos\Uni-work-\portfolio\portfolio\bin\Debug\netcoreapp1.1\portfolio.pdb
+C:\Users\102330974\source\repos\Uni-work-\portfolio\portfolio\obj\Debug\netcoreapp1.1\portfolio.csprojResolveAssemblyReference.cache
+C:\Users\102330974\source\repos\Uni-work-\portfolio\portfolio\obj\Debug\netcoreapp1.1\portfolio.csproj.CoreCompileInputs.cache
+C:\Users\102330974\source\repos\Uni-work-\portfolio\portfolio\obj\Debug\netcoreapp1.1\portfolio.AssemblyInfo.cs
+C:\Users\102330974\source\repos\Uni-work-\portfolio\portfolio\obj\Debug\netcoreapp1.1\portfolio.dll
+C:\Users\102330974\source\repos\Uni-work-\portfolio\portfolio\obj\Debug\netcoreapp1.1\portfolio.pdb
